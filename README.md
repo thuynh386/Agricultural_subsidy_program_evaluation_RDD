@@ -1,3 +1,2 @@
 # RDD_Master_Thesis
-Master Thesis for Economic and Econometric Theory program at TSE. 
-Program Evaluation using RDD design on French Agricultural Subsidy program named Less Favored Areas (LFA)
+Using Regression Discontinuity Design (RDD) to evaluate the impact of a French agricultural subsidy program on several economic outcomes, such as farm land area, number of cattle raised.
